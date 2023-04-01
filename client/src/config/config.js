@@ -1,9 +1,9 @@
 const config = {
   development: {
-    backendUrl: "https://shirts-jsda.onrender.com",
+    backendUrl: "http://localhost:8080/api/v1/dalle",
   },
   production: {
-    backendUrl: "https://shirts-jsda.onrender.com",
+    backendUrl: "https://devswag.onrender.com/api/v1/dalle",
   },
 };
 
