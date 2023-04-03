@@ -1,7 +1,7 @@
 # Jays-3D-Ai-Shirt-Designer
 This is a web application that allows users to customise shirts using a 3D AI model. The application is built using Vite, React, ThreeJS, Express, Tailwind, and Valtio.
 
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
+![3D Website](Jays-3D-Shirt-HomePage.png)
 
 ## Getting Started
 To get started with the project, clone the repository to your local machine:
