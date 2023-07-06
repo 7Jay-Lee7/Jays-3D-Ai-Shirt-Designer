@@ -4,7 +4,7 @@ import { useSnapshot } from 'valtio';
 import state from '../store';
 import { getContrastingColor } from '../config/helpers';
 
-export const CustomButton = ({ type, title, customStyles, handleClick }) => {
+const CustomButton = ({ type, title, customStyles, handleClick }) => {
   const snap = useSnapshot(state);
 
   const generateStyle = (type) => {
@@ -33,4 +33,4 @@ export const CustomButton = ({ type, title, customStyles, handleClick }) => {
   )
 }
 
-export default CustomButton;
+export default CustomButton
