@@ -1,5 +1,5 @@
 # Jays-3D-Ai-Shirt-Designer
-This is a web application that allows users to customise shirts using a 3D AI model. The application is built using Vite, React, ThreeJS, Express, Tailwind, and Valtio. To view this, please visit [Jays 3D Shirt Designer](https://3d-designer.netlify.app/){:target="_blank"}
+This is a web application that allows users to customise shirts using a 3D AI model. The application is built using Vite, React, ThreeJS, Express, Tailwind, and Valtio. To view this, please visit [Jays 3D Shirt Designer](https://3d-designer.netlify.app/ {:target="_blank"})
 
 ![3D Website](Jays-3D-Shirt-HomePage.png)
 
